@@ -1,6 +1,6 @@
 ### Hi there 👋 KIM YEKANG
 
-2021-11-1 ~ 2023-10-16 산업기능요원으로 썩어가는중 (Flutter with Vue.js)
+2021-11-1 ~ 2023-10-16 산업기능요원으로 썩어가는중
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimyekang&show_icons=true&theme=synthwave) -->
 
   
